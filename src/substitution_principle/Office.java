@@ -1,0 +1,4 @@
+package substitution_principle;
+
+public class Office {
+}
